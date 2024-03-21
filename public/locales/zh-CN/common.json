@@ -1,0 +1,14 @@
+{
+  "please": "请在",
+  "pay": "之内完成付款",
+  "screenshot": "截图保存二维码",
+  "openAlipay": "打开支付宝[扫一扫]",
+  "orderId": "订单号",
+  "orderTime": "交易时间",
+  "orderCopySucc": "订单号复制成功",
+  "orderExpired": "订单已过期",
+  "confirm": "确认",
+  "cancel": "取消",
+  "submit": "提交",
+  "payComplete": "支付完成"
+}

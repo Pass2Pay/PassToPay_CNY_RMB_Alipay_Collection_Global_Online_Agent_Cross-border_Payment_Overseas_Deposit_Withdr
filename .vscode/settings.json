@@ -1,0 +1,63 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "never",
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.format": "explicit"
+  },
+  "editor.detectIndentation": false,
+  // tailwindcss提示配置
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  /** stylelint **/
+  "stylelint.enable": true,
+  // 關閉VS Code編輯器內建的樣式規則偵測規範，避免與Stylelint的偵測規範重複|衝突
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.validate": ["css", "less", "scss", "vue", "html"],
+  /** stylelint **/
+  /** i18n配置 **/
+  "i18n-ally.namespace": true,
+  "i18n-ally.pathMatcher": "{locale}/{namespace}.json",
+  "i18n-ally.defaultNamespace": "common",
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.localesPaths": ["public/locales"],
+  "i18n-ally.sourceLanguage": "zh-HK",
+  "i18n-ally.displayLanguage": "zh-HK",
+  "i18n-ally.enabledParsers": ["ts", "js", "json"],
+  "i18n-ally.enabledFrameworks": ["react-i18next"],
+  /** 搜索排除 **/
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.gitignore": true,
+    "**/.idea": true,
+    "**/.svn": true,
+    "**/.vscode": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/tmp": true,
+    "**/yarn.lock": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/dist/**": true
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true
+  }
+}

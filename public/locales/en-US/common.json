@@ -1,0 +1,14 @@
+{
+  "please": "Please complete payment within",
+  "pay": " ",
+  "screenshot": "Screenshot to save QR code",
+  "openAlipay": "Open Alipay and Scan the QR Code",
+  "orderId": "Order No",
+  "orderTime": "Transaction time",
+  "orderCopySucc": "Order No. copied successfully",
+  "orderExpired": "Order has expired",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
+  "submit": "Submit",
+  "payComplete": "Pay Success"
+}

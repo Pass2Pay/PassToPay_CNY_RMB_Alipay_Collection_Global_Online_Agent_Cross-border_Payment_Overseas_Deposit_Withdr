@@ -1,0 +1,14 @@
+{
+  "please": "請在",
+  "pay": "之內完成付款",
+  "screenshot": "截圖儲存二維碼",
+  "openAlipay": "打開支付寶[掃一掃]",
+  "orderId": "訂單號碼",
+  "orderTime": "交易時間",
+  "orderCopySucc": "訂單號碼複製成功",
+  "orderExpired": "訂單已過期",
+  "confirm": "確認",
+  "cancel": "取消",
+  "submit": "提交",
+  "payComplete": "支付完成"
+}

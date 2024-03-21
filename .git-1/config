@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://git.myvnc.com/passto-pay/cashier-demo.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "master"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/master
+[branch "master_dev"]
+	vscode-merge-base = origin/master
+	remote = origin
+	merge = refs/heads/master_dev

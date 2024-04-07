@@ -11,6 +11,7 @@ import dayjs from 'dayjs'
 import ConfirmModal, { IConfirmRef } from '@/components/modal/confirm'
 import { queryOrder, OrderDTO } from '@/api'
 import { useRequest } from 'ahooks'
+import { div } from '@/utils'
 
 interface iProps {
   payInfo: OrderDTO
@@ -87,7 +88,7 @@ export function Order({ payInfo, onConfirm }: iProps) {
         <div className="flex justify-between p-5">
           <div>
             <div className="text-2xl text-dark font-bold">{`¥ ${
-              order?.amount ? thousandsNumber(order?.amount) : '--'
+              order?.amount ? thousandsNumber(div(order.amount, 100)) : '--'
             }`}</div>
             {leftTime > 0 ? (
               <div className="text-sm text-subColor flex items-center">

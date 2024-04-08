@@ -18,7 +18,7 @@ const ConfirmModal = React.forwardRef((props: IModal, ref: React.Ref<IConfirmRef
   const { t } = useTranslation()
   const { children, onConfirm, onCancel, hideCloseIcon = false } = props
   const [visible, setVisible] = useState(false)
-  const [loading, setLoading] = useState(true)
+  const [loading, setLoading] = useState(false)
 
   const getConfirmRes = (res: Promise<unknown> | boolean | null) =>
     new Promise(resolve => {

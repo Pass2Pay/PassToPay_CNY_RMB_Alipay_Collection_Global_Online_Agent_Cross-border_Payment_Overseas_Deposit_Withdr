@@ -25,10 +25,10 @@ function Btn({
   onClick,
   children,
   href,
-  loading = true,
+  loading,
 }: IBtn) {
   const handleClick = () => {
-    if (disabled) return
+    if (disabled || loading) return
     onClick?.()
   }
   const formatClsx = clsx([

@@ -18,12 +18,14 @@
 ## 我要體驗一筆收銀檯訂單
 
 嘗試支付 ¥0.01 體驗 PASSTO PAY 支付寶代收流程
-[![](link_cashier)](https://cashier.passtopay.io/)
+
+[![][link_cashier]](https://cashier.passtopay.io)
 
 ## 我要體驗商戶後臺
 
 使用商戶試用賬戶，查看商戶後臺功能
-[![](link_backend)](https://mch.ylbhd.com/login?type=demo)
+
+[![][link_backend]](https://mch.ylbhd.com/login?type=demo)
 
 ## 開源免費收銀檯
 

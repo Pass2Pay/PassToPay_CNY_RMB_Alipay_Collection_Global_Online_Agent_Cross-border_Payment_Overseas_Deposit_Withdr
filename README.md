@@ -19,7 +19,7 @@
 
 嘗試支付 ¥0.01 體驗 PASSTO PAY 支付寶代收流程
 
-[![][link_cashier]](https://cashier.passtopay.io)
+![][link_cashier]
 
 ## 我要體驗商戶後臺
 

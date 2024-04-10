@@ -1,0 +1,11 @@
+
+server:
+  port: 8080 #设置端口
+
+
+
+cashier:
+  core:
+    mchNo: "商户号"
+    appId: "应用ID"
+    appSecret: "商户私钥"

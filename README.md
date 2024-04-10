@@ -34,10 +34,10 @@
 - 提供完整的支付寶收銀檯前端樣式代碼
 - 遵守 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) 開源協議
 
-## 收銀檯項目結構
+## frontend端 收銀檯項目結構
 
 ```
-project
+frontend
 ├── api                  # API 控制器目录
 │   ├── [**.ts]
 │   ├── types.ts
@@ -101,6 +101,48 @@ yarn dev
 - 打包：
   `yarn build`
 
+
+
+## server端 收銀檯項目結構
+
+```
+server
+├── bean                 # 异常和请求的Bean
+│   ├── [**.ts]
+│   ├── types.ts
+├── config               # 请求api的配置参数
+│   
+├── ctrl                 # 下单等相关接口
+│   ├── PayNotifyCtrl    # 回调接口列子
+│   └── UnifiedOrderCtrl # 下单接口
+├── dto                  # 请求相应封装的DTO
+│   
+├── utils                # 相关工具类
+│  
+├──CashierServer         # 启动类
+
+├── application.yml      # 配置文件，配置商户号等
+```
+
+### 開發調試
+
+- 安裝JDK：`JDK1.8`
+- 安裝maven
+- run CashierServer.java 类中的main方法
+
+用瀏覽器開啟 [http://localhost:8080/doc.html](http://localhost:8080/doc.html) 查看結果。
+
+
+## 部署：
+
+- 打包：
+  `使用maven 完成打包`
+- target目录下：
+  - cashier-server.jar
+- 启动服务：
+  `java -jar cashier-server.jar`
+
+
 ## 加入交流/意見反饋
 
 - Telegram：https://t.me/PayCool_Erik
@@ -130,5 +172,5 @@ yarn dev
 > 使用費率比 fireBlocks 和 metaMask 都低  
 > [點擊創建你的智能合約櫃檯](https://www.blockatm.net/)
 
-[link_cashier]: public/screenshot/img01.png
-[link_backend]: public/screenshot/img02.png
+[link_cashier]: frontend/public/screenshot/img01.png
+[link_backend]: frontend/public/screenshot/img02.png

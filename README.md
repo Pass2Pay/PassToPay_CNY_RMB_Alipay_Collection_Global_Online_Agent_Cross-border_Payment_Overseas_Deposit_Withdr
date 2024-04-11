@@ -20,13 +20,15 @@
 嘗試支付 ¥0.01 體驗 PASSTO PAY 支付寶代收流程
 
 ![][link_cashier_btn]
+
 ![][link_cashier]
 
 ## 我要體驗商戶後臺
 
 使用商戶試用賬戶，查看商戶後臺功能
 
-[![][link_cashier_btn]](https://mch.ylbhd.com/login?type=demo)
+[![][link_backend_btn]](https://mch.ylbhd.com/login?type=demo)
+
 ![][link_backend]
 
 ## 開源免費收銀檯
@@ -152,10 +154,11 @@ server
 
 ## 商戶 API 接口
 
-- [創建支付訂單](https://passtopay.io/f70d29f5231b483da80c5c21d98cb594?pvs=25)
-- [查詢支付訂單](https://passtopay.io/f70d29f5231b483da80c5c21d98cb594?pvs=25)
-- [創建轉帳訂單](https://passtopay.io/f70d29f5231b483da80c5c21d98cb594?pvs=25)
-- [查詢轉帳訂單](https://passtopay.io/f70d29f5231b483da80c5c21d98cb594?pvs=25)
+- [創建支付訂單](https://passtopay.io/api)
+- [查詢支付訂單](https://passtopay.io/api)
+- [創建轉帳訂單](https://passtopay.io/api)
+- [查詢轉帳訂單](https://passtopay.io/api)
+
 更多接口詳情訪問：https://passtopay.io
 
 ![][link_end]

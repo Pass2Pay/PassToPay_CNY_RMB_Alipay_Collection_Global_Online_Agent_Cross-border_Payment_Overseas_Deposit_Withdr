@@ -4,7 +4,8 @@
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPLV3-blue" alt="license GPLV3"></a>
 <a href="https://github.com/assimon/dujiaoka/releases/tag/1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-red" alt="version 1.0.0"></a>
 </p>
-<h2 align="center" > <a href="README.md" h>繁體中文 </a> | English</h2>
+<h2 align="center"> <a href="README_zh.md">简体中文</a> | <a href="README.md">繁體中文</a>  | English</h2>
+
 ## PassTo Pay - Aggregate Payment Solutions to Expand Your Business Rapidly
 
 > [PassTo Pay](https://passtopay.io) is an aggregate third-party payment platform that provides merchants operating various businesses with direct collection of Alipay, WeChat Pay, and UnionPay QuickPass. It supports QR code payments and accepts various bank cards and credit cards, helping merchants efficiently manage their RMB payment processes.

@@ -4,7 +4,8 @@
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPLV3-blue" alt="license GPLV3"></a>
 <a href="https://github.com/assimon/dujiaoka/releases/tag/1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-red" alt="version 1.0.0"></a>
 </p>
-<h2 align="center">繁體中文 | <a href="README_EN.md">English</a></h2>
+
+<h2 align="center"> <a href="README_zh.md">简体中文</a> | 繁體中文  | <a href="README_EN.md">English</a></h2>
 
 ## PassTo Pay - `聚合支付`助你快速拓展業務
 

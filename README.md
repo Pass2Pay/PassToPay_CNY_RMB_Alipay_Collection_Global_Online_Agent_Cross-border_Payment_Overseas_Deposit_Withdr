@@ -154,28 +154,16 @@ server
 
 ## 商戶 API 接口
 
-- [創建支付訂單](https://passtopay.io/api)
-- [查詢支付訂單](https://passtopay.io/api)
-- [創建轉帳訂單](https://passtopay.io/api)
-- [查詢轉帳訂單](https://passtopay.io/api)
+- [創建支付訂單](https://passtopay.io/api-f70d29f5231b483da80c5c21d98cb594)
+- [查詢支付訂單](https://passtopay.io/api-f70d29f5231b483da80c5c21d98cb594)
+- [創建轉帳訂單](https://passtopay.io/api-f70d29f5231b483da80c5c21d98cb594)
+- [查詢轉帳訂單](https://passtopay.io/api-f70d29f5231b483da80c5c21d98cb594)
 
 更多接口詳情訪問：https://passtopay.io
 
-![][link_end]
 
-## AD -- PassTo-多種資產抵押信用卡
 
-> 無上限信用額 單筆消費可達$5,000,000  
-> 信用額度按照抵押品價格而設定，支持：證券、物業、貴金屬、數字資產等  
-> 可绑微信、支付宝、美区 AppStore 消费  
-> [點擊領取你的國際信用卡](https://passtocredit.io/)
-
-## AD -- BlockATM-智能合約收付款解決方案
-
-> 完全去中心化的商戶收付款方式  
-> 使用智能合約進行資金的安全管理  
-> 使用費率比 fireBlocks 和 metaMask 都低  
-> [點擊創建你的智能合約櫃檯](https://www.blockatm.net/)
+點擊創建你的智能合約櫃檯](https://www.blockatm.net/)
 
 [link_cashier]: frontend/public/screenshot/img01.png
 [link_cashier_btn]: frontend/public/screenshot/btn-cashier.jpg

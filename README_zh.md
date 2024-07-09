@@ -153,8 +153,7 @@ server
 
 ## 加入交流/意見反饋
 
-- Telegram：https://t.me/PayCool_Erik
-- Email：erik.wang@chixi88.com
+
 
 ## 商戶 API 接口
 

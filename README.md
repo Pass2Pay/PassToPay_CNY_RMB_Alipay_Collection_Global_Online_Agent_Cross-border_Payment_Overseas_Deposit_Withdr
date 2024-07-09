@@ -148,8 +148,6 @@ Open http://localhost:8080/doc.html in your browser to see the result.
 
 ## Join the Discussion/Feedback
 
-- Telegram：https://t.me/PayCool_Erik
-- Email：erik.wang@chixi88.com
 
 ## Merchant API Interfaces
 

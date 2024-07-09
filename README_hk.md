@@ -151,8 +151,6 @@ server
 
 ## 加入交流/意見反饋
 
-- Telegram：https://t.me/PayCool_Erik
-- Email：erik.wang@chixi88.com
 
 ## 商戶 API 接口
 
@@ -165,7 +163,6 @@ server
 
 
 
-點擊創建你的智能合約櫃檯](https://www.blockatm.net/)
 
 [link_cashier]: frontend/public/screenshot/img01.png
 [link_cashier_btn]: frontend/public/screenshot/btn-cashier.jpg

@@ -6,9 +6,12 @@
 </p>
 <h2 align="center"> <a href="README_zh.md">简体中文</a> | <a href="README_hk.md">繁體中文</a>  | English</h2>
 
+
 ## PassTo Pay - Aggregate Payment Solutions to Expand Your Business Rapidly
 
 > [PassTo Pay](https://passtopay.io) is an aggregate third-party payment platform that provides merchants operating various businesses with direct collection of Alipay, WeChat Pay, and UnionPay QuickPass. It supports QR code payments and accepts various bank cards and credit cards, helping merchants efficiently manage their RMB payment processes.
+## Official Website
+https://passtopay.io
 
 ## Applicable Scenarios
 

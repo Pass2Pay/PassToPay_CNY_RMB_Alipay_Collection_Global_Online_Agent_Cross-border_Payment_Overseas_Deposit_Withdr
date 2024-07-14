@@ -6,6 +6,9 @@
 </p>
 <h2 align="center"> 简体中文 | <a href="README_hk.md">繁體中文</a>  | <a href="README.md">English</a></h2>
 
+## 官网
+https://passtopay.io
+
 ## PassTo Pay - `聚合支付`助你快速拓展业务
 
 > [PassTo Pay](https://passtopay.io)是一个聚合支付第三方平台,为经营各类业务的商户提供支付宝、微信、云闪付直接收款,二维码扫码收款,接纳各种银行卡、信用卡,帮助商户快速处理人民币收付流程
